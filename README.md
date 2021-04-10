@@ -1,6 +1,9 @@
 # journey_ui
 
 A new Flutter project.
+![journey_ui](https://user-images.githubusercontent.com/27766375/114268271-04aaef00-99df-11eb-8be6-231ca5151a48.jpg)
+![example journey_ui](https://user-images.githubusercontent.com/27766375/114268274-07a5df80-99df-11eb-8bba-3179a172f888.jpg)
+
 
 ## Getting Started
 
